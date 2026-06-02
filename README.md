@@ -14,7 +14,7 @@ Building AI-first products, ventures, and teams across Europe and the GCC.
 
 - 🚀 Chief of Product & Design at Rimthan
 - 🤖 Building AI-native products and workflows
-- 🚆 Leading national-scale mobility initiatives
+- 🚆 Leading national-scale initiatives in GCC
 - 🏦 Designing next-generation fintech experiences
 - 🎨 Driving product, design, and validation across the venture portfolio
 
