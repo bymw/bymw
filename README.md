@@ -26,3 +26,4 @@ Product Strategy • Venture Building • Product Management • Product Design 
 
 - 🌍 [marcuswiberg.com](https://marcuswiberg.com)
 - 💼 [LinkedIn](https://linkedin.com/in/marcuswiberg)
+- 🐦 [X / Twitter](https://x.com/immarcuswiberg)
