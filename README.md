@@ -1,6 +1,6 @@
 # Hi, I'm Marcus Wiberg 👋
 
-### Chief of Product & Design • Venture Builder • AI-First Operator
+### Chief of Product & Design • Product Leader & Builder
 
 ![Product & Design](https://img.shields.io/badge/Product%20%26%20Design-Leadership-blue)
 ![Rimthan](https://img.shields.io/badge/Rimthan-Chief%20of%20Product%20%26%20Design-black)
