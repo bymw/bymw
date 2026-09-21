@@ -1,4 +1,4 @@
-# Hi, I'm Marcus Wiberg 👋
+# Hi, I'm Marcus 👋
 
 ### Chief of Product & Design • Product Leader & Builder
 
