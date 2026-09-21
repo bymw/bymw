@@ -4,7 +4,6 @@
 
 ![Product & Design](https://img.shields.io/badge/Product%20%26%20Design-Leadership-blue)
 ![Rimthan](https://img.shields.io/badge/Rimthan-Chief%20of%20Product%20%26%20Design-black)
-![Venture](https://img.shields.io/badge/Venture-Building-purple)
 ![AI](https://img.shields.io/badge/AI-First-green)
 ![UX](https://img.shields.io/badge/UX-Research%20%26%20Design-orange)
 
