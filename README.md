@@ -1,18 +1,19 @@
+
 # Hi, I'm Marcus 👋
 
-### Chief of Product & Design • Product Leader & Builder
+### Product Builder · Design Engineer · Product & Design Leader
 
-![Product & Design](https://img.shields.io/badge/Product%20%26%20Design-Leadership-blue)
-![Rimthan](https://img.shields.io/badge/Rimthan-Chief%20of%20Product%20%26%20Design-black)
-![AI](https://img.shields.io/badge/AI-First-green)
-![UX](https://img.shields.io/badge/UX-Research%20%26%20Design-orange)
+I'm a hands-on product and design leader with 16+ years of experience building digital products and ventures.
 
-Building AI-first products, ventures, and teams across Europe and the GCC.
+I work across **product strategy, design, engineering, and AI**, from understanding customer problems to prototyping, building, and shipping thoughtful experiences.
 
-## Currently
+Currently **Chief of Product & Design at Rimthan**, building digital ventures across Europe and the GCC.
 
-- 🚀 Chief of Product & Design at Rimthan
-- 🤖 Building AI-native products and workflows
-- 🚆 Leading national-scale initiatives in GCC
-- 🏦 Designing next-generation fintech experiences
-- 🎨 Driving product, design, and validation across the venture portfolio
+### What I'm focused on
+
+- 🤖 Building AI-native products, agents, and useful workflows
+- 🛠️ Designing, prototyping, coding, and shipping products
+- 🎨 Creating intuitive experiences with care for the details
+- 🚀 Helping teams solve meaningful customer problems
+
+**Stay curious. Build to learn. Keep improving.**
