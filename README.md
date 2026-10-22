@@ -1,5 +1,5 @@
 
-# Hi, I'm Marcus 👋
+# Hi, I'm Marcus
 
 ### Product Builder · Design Engineer · Product & Design Leader
 
