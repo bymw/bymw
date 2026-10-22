@@ -15,5 +15,3 @@ Currently **Chief of Product & Design at Rimthan**, building digital ventures ac
 - 🛠️ Designing, prototyping, coding, and shipping products
 - 🎨 Creating intuitive experiences with care for the details
 - 🚀 Helping teams solve meaningful customer problems
-
-**Stay curious. Build to learn. Keep improving.**
